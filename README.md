@@ -4,9 +4,9 @@
 
 Tensorflow==1.5.0.  
 Keras==2.1.2.  
-Python==3.5.4.  
-scikit-learn==0.19.1.    
-statsmodels==0.6.1. 
+Python==3.5.4.    
+scikit-learn==0.19.1.      
+statsmodels==0.6.1.    
 scipy==1.1.0.    
 seaborn==0.8.1.    
 scikit-learn==0.19.1.    
