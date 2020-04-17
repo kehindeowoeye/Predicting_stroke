@@ -18,9 +18,10 @@ matplotlib==1.5.1.
 # Datasets
 Dataset has been downloaded here from the UCI repository
 
-# Training and Testing
-Python stroke.py trains and test four models described in the report whilst displaying their respective accuracies and F1 scores. 
 
+
+# Training and Testing
+Clone or download this repository into. Python stroke.py trains and test four models described in the report whilst displaying their respective accuracies and F1 scores. 
 
 
 
